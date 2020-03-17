@@ -11,8 +11,8 @@ To directly execute the python script you will need the following env:
 - bs4 | Beautifulsoup the python module
 - requests
 
-Attention that `requests` the python module has not been built-in so far and you may have problems importing it. If so, a solution with [Google](google.com) may help :)
+Attention that `requests` the python module has not been built-in so far and you may have problems importing it. If so, a solution with [Google](http://google.com) may help :)
 
 ## Warning
 
-I wrote this scripts as an extension of the existing [Sci-Hub](sci-hub.tw) project, which unlock most of the copyright journals. It could a great violence in the name of academic freedom. Please pay attention.
+I wrote this scripts as an extension of the existing [Sci-Hub](http://sci-hub.tw) project, which unlock most of the copyright journals. It could a great violence in the name of academic freedom. Please pay attention.
