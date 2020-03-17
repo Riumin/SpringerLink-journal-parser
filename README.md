@@ -1,7 +1,7 @@
 # SpringerLink journal parser
 A parser designed to get a full archives of a certain academic journal published by SpringerLink
 
-## This project need a further development!
+## This project needs a further development!
 
 I have upload the very initial python script to this repo and you could make use of it directly with an established env. I'll spare some other time to compile it to an execute. I'll hurry :D
 
