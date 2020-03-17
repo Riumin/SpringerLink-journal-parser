@@ -17,4 +17,4 @@ Once launched, the script will create a folder under the present directory and s
 
 ## Warning
 
-I wrote this scripts as an extension of the existing [Sci-Hub](http://sci-hub.tw) project, which unlock most of the copyright journals. It could a great violence in the name of academic freedom. Please pay attention.
+I wrote this scripts as an extension of the existing [Sci-Hub](http://sci-hub.tw) project, which unlocks most of the copyright journals. It could be a great violence in the name of academic freedom. Please pay attention.
